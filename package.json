@@ -1,0 +1,17 @@
+{
+  "name": "fcc_3_3",
+  "version": "1.0.0",
+  "description": "freecodecamp backend task 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ihmccd",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "mongo": "^0.1.0",
+    "nodemon": "^1.11.0"
+  }
+}
